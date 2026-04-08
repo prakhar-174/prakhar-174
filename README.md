@@ -13,7 +13,7 @@
 - 🤖 Love combining **AI + Web** to solve real-world problems
 - 🧑‍🤝‍🧑 **Co-Organizer** at Google Developer Group (GDG) On Campus ABES EC
 - 🌱 Currently exploring **LangChain, AI agents & cloud deployments**
-- ⚡ Fun fact: I design, code, and write — all in one sprint!
+- ⚡ Fun fact: I design, code, and write - all in one sprint!
 
 ---
 
