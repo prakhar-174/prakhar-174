@@ -56,7 +56,7 @@
 
 <div align="center">
 
-*"Clean code, clear thinking, and community — that's the trifecta."*
+*"Clean code, clear thinking, and community - that's the trifecta."*
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=prakhar-174&color=blueviolet&style=flat-square)
 
